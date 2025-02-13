@@ -1,7 +1,10 @@
 # Vehicle Detection and Counting using YOLOv8 and SORT
 
 This project demonstrates real-time vehicle detection and counting using YOLOv8 (You Only Look Once) for object detection and SORT (Simple Online and Realtime Tracking) for tracking vehicles. The system counts vehicles crossing a predefined line in a video and displays the count on the screen.
-[Watch the result video](Results\Res_video.mp4)
+<video controls width="640">
+  <source src="Results/Res_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## Features
