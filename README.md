@@ -50,8 +50,8 @@ This project demonstrates real-time vehicle detection and counting using YOLOv8 
   * Counting Logic: Vehicles are counted when their center crosses a predefined line.
 
 ## Acknowledgments
-  * (Ultralytics YOLOv8)[https://www.ultralytics.com/ar/yolo] for the object detection model.
+  * [Ultralytics YOLOv8](https://www.ultralytics.com/ar/yolo) for the object detection model.
 
-  * (SORT)[https://github.com/abewley/sort] for the tracking algorithm.
+  * [SORT](https://github.com/abewley/sort) for the tracking algorithm.
 
   * OpenCV for video processing.
